@@ -1,0 +1,17 @@
+body {
+	background-color: orange
+}
+h1{font-size: 80px; 
+		color: blue; 
+		font-style: italic;
+		font-style: bold}
+
+h2{}
+
+.small{font-size: 35px
+	color: grey;}
+#me{
+	color: red;
+	font-style: italic;
+	font-style: underline 
+}
